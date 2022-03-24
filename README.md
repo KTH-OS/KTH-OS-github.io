@@ -1,1 +1,1 @@
-# KTH-OS-github.io
+# KTH-OS.github.io
