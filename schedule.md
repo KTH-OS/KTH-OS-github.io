@@ -22,16 +22,29 @@ permalink: /schedule/
 ## **PM-I: Processes** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch3: Processes
+* Linux System Programming - Ch5: Process Management
+* The Linux Programming Interface - Ch24: Process Creation
+* The Linux Programming Interface - Ch25: Process Termination
+* The Linux Programming Interface - Ch26: Monitoring Child Processes
+* The Linux Programming Interface - Ch27: Program Execution
+* The Linux Programming Interface - Ch44: Pipes and FIFOs
+* The Linux Programming Interface - Ch51: Introduction to POSIX IPC
+* The Linux Programming Interface - Ch52: POSIX Message Queues
 <br><br>
 
 ## **PM-II: Thread and Concurrency** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch4: Threads and Concurrency
+* Linux System Programming - Ch7: Threading
+* The Linux Programming Interface - Ch29: Threads Introduction
+* The Linux Programming Interface - Ch32: Thread Cancellation
 <br><br>
 
 ## **PM-III: CPU Scheduling** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch5: CPU Scheduling
+* Linux System Programming - Ch6: Advanced Process Management
+* The Linux Programming Interface - Ch35: Process Priorities and Scheduling
 <br><br><br><br>
 
 <center><h1><b>Module2 - Process Synchronization (PS)</b></h1></center>
@@ -42,6 +55,9 @@ permalink: /schedule/
 #### **Reading**
 * Operating System Concepts - Ch6: Synchronization Tools
 * Operating System Concepts - Ch7: Synchronization Examples
+* Linux System Programming - Ch7: Threading
+* The Linux Programming Interface - Ch30: Thread Synchronization
+* The Linux Programming Interface - Ch53: POSIX Semaphores
 <br>
 
 ## **PS-II: Deadlocks** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
@@ -55,11 +71,15 @@ permalink: /schedule/
 # **MM-I: Main Memory (Part 1)** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
+* Linux System Programming - Ch9: Memory Management
+* The Linux Programming Interface - Ch7: Memory Allocation
 <br><br>
 
 # **MM-II: Main Memory (Part 2)** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
+* Linux System Programming - Ch9: Memory Management
+* The Linux Programming Interface - Ch7: Memory Allocation
 <br><br>
 
 # **MM-III: Virtual Memory** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
@@ -86,9 +106,15 @@ permalink: /schedule/
 # **FS-I: File-System Interface** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch13: File-System Interface
+* Linux System Programming - Ch2: File I/O
+* Linux System Programming - Ch3: Buffered I/O
+* The Linux Programming Interface - Ch4: File I/O, The Universal I/O Model
 <br><br>
 
 # **FS-II: File-System Implementation** [[slides](/slides/.pdf)] [[exercise]()] [[video]()]
 #### **Reading**
 * Operating System Concepts - Ch14: File-System Implementation
 * Operating System Concepts - Ch15: File-System Internals
+* Linux System Programming - Ch2: File I/O
+* Linux System Programming - Ch3: Buffered I/O
+* The Linux Programming Interface - Ch4: File I/O, The Universal I/O Model
