@@ -7,10 +7,10 @@ permalink: /assignments/
 <h2>Assignments</h2>
 
 <p align="justify">
-The course consists of four of tasks as listed below:
+The course consists of four tasks as listed below:
 <br>
 <h3>Task1</h3>
-Task1 has five sets of review questions; one set of questions for each module. Students will work on this task individually and they have time to answer them until the end of the module. This assignment is a pass/fail task.<br>
+Task1 has five sets of review questions; one set of questions for each module. Students will work on this task individually and have time to answer them until the end of the module. This assignment is a pass/fail task.<br>
 <br>
 <h3>Task2</h3>
 Task2 is a set of programming assignments relevant to each module. Students should work in groups on this task and submit their code on given dates.<br>
@@ -40,4 +40,4 @@ Task4 is the final exam, including questions from all modules covered in the cou
 <hr>
 <br>
 <h2>The Final Grade</h2>
-The final grade of the course is computed as 0.5*Task3 + 0.5*Task4. To pass the course, students should pass Task1 and Task2 and the final grade should be greater than E. 
+The final grade of the course is computed as 0.5*Task3 + 0.5*Task4. To pass the course, students should pass Task1 and Task2, and the final grade should be greater than E. 
