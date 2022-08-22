@@ -51,4 +51,4 @@ Task5 is the final exam, including questions from all modules covered in the cou
 <hr>
 <br>
 <h2>The Final Grade</h2>
-The final grade of the course is computed as 0.5*Task3 + 0.5*Task4. To pass the course, students should pass Task1 and Task3, and the final grade should be greater than E. 
+To pass the course you must pass Task 1 and Task 3 and get at least E in Task 4 and Task 5.
