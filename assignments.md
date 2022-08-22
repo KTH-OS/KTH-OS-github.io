@@ -7,7 +7,7 @@ permalink: /assignments/
 <h2>Assignments</h2>
 
 <p align="justify">
-The course consists of four tasks as listed below:
+The course consists of five tasks as listed below:
 <br>
 
 <h3>Task1</h3>
