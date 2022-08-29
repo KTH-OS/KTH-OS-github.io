@@ -8,7 +8,7 @@ permalink: /schedule/
 <center><h1><b>Introduction</b></h1></center>
 <hr>
 <br>
-## **Introduction** [[slides](/slides/01_introduction.pdf)] [[slides parintable](/slides/01_introduction_printable.pdf)] [[exercise](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EchaWOLCrfdAi4fOl0NkDPwBQ66RuVegxyxJWdYbf0p1iQ?e=TwNj63)]
+## **Introduction** [[slides](/slides/01_introduction.pdf)] [[parintable slides](/slides/01_introduction_printable.pdf)] [[exercise](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EchaWOLCrfdAi4fOl0NkDPwBQ66RuVegxyxJWdYbf0p1iQ?e=TwNj63)]
 
 #### **Reading**
 * Operating System Concepts - Ch1: Introduction
