@@ -8,7 +8,7 @@ permalink: /schedule/
 <center><h1><b>Introduction</b></h1></center>
 <hr>
 <br>
-## **Introduction** [[slides](/slides/01_introduction.pdf)] [[printable slides](/slides/01_introduction_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EchaWOLCrfdAi4fOl0NkDPwBQ66RuVegxyxJWdYbf0p1iQ?e=TwNj63)]
+## **Introduction** [[slides](/slides/01_introduction.pdf)] [[printable](/slides/01_introduction_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EchaWOLCrfdAi4fOl0NkDPwBQ66RuVegxyxJWdYbf0p1iQ?e=TwNj63)]
 
 #### **Reading**
 * Operating System Concepts - Ch1: Introduction
@@ -19,7 +19,9 @@ permalink: /schedule/
 <hr>
 <br>
 
-## **PM-I: Processes** [slides] [exercise]
+## **PM-I: Processes** [[slides](/slides/02_process_part1.pdf)] [[printable](/slides/02_process_part1_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EZ2WjNf_UjZEofItcnpqEGsB8QTdagB_3_KWx2xyQxhpZg?e=WZb2pn)]<br>
+## [[exercise 1](/exercise/01_stack.pdf)] [[exercise 1 - src](/exercise/01_stack.zip)] [[exercise 2](/exercise/02_process.pdf)] [[exercise 2 - src](/exercise/02_process.zip)] 
+
 #### **Reading**
 * Operating System Concepts - Ch3: Processes
 * Linux System Programming - Ch5: Process Management
@@ -32,7 +34,9 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch52: POSIX Message Queues
 <br><br>
 
-## **PM-II: Thread and Concurrency** [slides] [exercise]
+## **PM-II: Thread and Concurrency** [slides] [printable] [video]<br>
+## [[exercise 3](/exercise/03_thread.pdf)] [[exercise 3 - src](/exercise/03_thread.zip)]
+
 #### **Reading**
 * Operating System Concepts - Ch4: Threads and Concurrency
 * Linux System Programming - Ch7: Threading
@@ -40,7 +44,9 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch32: Thread Cancellation
 <br><br>
 
-## **PM-III: CPU Scheduling** [slides] [exercise]
+## **PM-III: CPU Scheduling** [slides] [printable] [video]<br>
+## [[exercise 4](/exercise/04_scheduling.pdf)] [[exercise 4 - src](/exercise/04_scheduling.zip)]
+
 #### **Reading**
 * Operating System Concepts - Ch5: CPU Scheduling
 * Linux System Programming - Ch6: Advanced Process Management
