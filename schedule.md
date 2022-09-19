@@ -34,7 +34,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch52: POSIX Message Queues
 <br><br>
 
-## **PM-II: Thread and Concurrency** [[slides](/slides/03_process_part2.pdf)] [[printable](/slides/03_process_part2_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EcsUFuLf4UpKvOOT8i9fQE8Be7_8HDokBKDKPbI7kTDk9Q?e=G73jPa)]<br>
+## **PM-II: Thread and Concurrency** [[slides](/slides/03_process_part2.pdf)] [[printable](/slides/03_process_part2_printable.pdf)] [[src](/slides/src_pthread.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EcsUFuLf4UpKvOOT8i9fQE8Be7_8HDokBKDKPbI7kTDk9Q?e=G73jPa)]<br>
 ## [[exercise 3](/exercise/03_thread.pdf)] [[exercise 3 - src](/exercise/03_thread.zip)]
 
 #### **Reading**
@@ -44,7 +44,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch32: Thread Cancellation
 <br><br>
 
-## **PM-III: CPU Scheduling** [slides] [printable] [video]<br>
+## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EYMLbABVJcpKkMGKguSBlYgBPd7GPCX9Wtj1eEEDGHuUfw?e=5vntiF)]<br>
 ## [[exercise 4](/exercise/04_scheduling.pdf)] [[exercise 4 - src](/exercise/04_scheduling.zip)]
 
 #### **Reading**
