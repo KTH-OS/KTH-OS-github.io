@@ -44,7 +44,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch32: Thread Cancellation
 <br><br>
 
-## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EYMLbABVJcpKkMGKguSBlYgBPd7GPCX9Wtj1eEEDGHuUfw?e=5vntiF)]<br>
+## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[src](/slides/src_cpu_set.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EYMLbABVJcpKkMGKguSBlYgBPd7GPCX9Wtj1eEEDGHuUfw?e=5vntiF)]<br>
 ## [[exercise 4](/exercise/04_scheduling.pdf)] [[exercise 4 - src](/exercise/04_scheduling.zip)]
 
 #### **Reading**
@@ -57,7 +57,7 @@ permalink: /schedule/
 <hr>
 <br>
 
-## **PS-I: Synchronization Tools** [slides] [exercise]
+## **PS-I: Synchronization Tools** [[slides](/slides/05_sync_part1.pdf)] [[printable](/slides/05_sync_part1_printable.pdf)] [[src](/slides/src_semaphore.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/Eei7yxkX1F9Jukr3cBuDW8YBW17xWUG9A4ztiC577GXwwg?e=8lkjD5)]<br>
 #### **Reading**
 * Operating System Concepts - Ch6: Synchronization Tools
 * Operating System Concepts - Ch7: Synchronization Examples
