@@ -44,7 +44,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch32: Thread Cancellation
 <br><br>
 
-## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[src](/slides/src_cpu_set.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EYMLbABVJcpKkMGKguSBlYgBpmPFvknYo8YJgU9n5kiViQ?e=Dwnz8e)]<br>
+## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[src](/slides/src_cpu_set.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EYMLbABVJcpKkMGKguSBlYgBpmPFvknYo8YJgU9n5kiViQ?e=FXBOvl)]<br>
 ## [[exercise 4](/exercise/04_scheduling.pdf)] [[exercise 4 - src](/exercise/04_scheduling.zip)]
 
 #### **Reading**
