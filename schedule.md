@@ -58,6 +58,8 @@ permalink: /schedule/
 <br>
 
 ## **PS-I: Synchronization Tools** [[slides](/slides/05_sync_part1.pdf)] [[printable](/slides/05_sync_part1_printable.pdf)] [[src](/slides/src_semaphore.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/Eei7yxkX1F9Jukr3cBuDW8YBW17xWUG9A4ztiC577GXwwg?e=8lkjD5)]<br>
+## [[exercise 5](/exercise/05_sync.pdf)] [[exercise 5 - src](/exercise/05_sync.zip)]
+
 #### **Reading**
 * Operating System Concepts - Ch6: Synchronization Tools
 * Operating System Concepts - Ch7: Synchronization Examples
@@ -66,7 +68,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch53: POSIX Semaphores
 <br>
 
-## **PS-II: Deadlocks** [slides] [exercise]
+## **PS-II: Deadlocks** [[slides](/slides/06_sync_part2.pdf)] [[printable](/slides/06_sync_part2_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EU66No6RClNAvOsyGcfFiLYBs2KTDuXxV0Bh5BUY5-J-Vg?e=OXIZ7f)]<br>
 #### **Reading**
 * Operating System Concepts - Ch8: Deadlocks
 <br><br><br><br>
