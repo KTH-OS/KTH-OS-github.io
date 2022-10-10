@@ -76,7 +76,7 @@ permalink: /schedule/
 <center><h1><b>Module 3 - Memory Management (MM)</b></h1></center>
 <hr>
 <br>
-# **MM-I: Main Memory (Part 1)** [slides] [exercise]
+# **MM-I: Main Memory (Part 1)** [[slides](/slides/07_memory_part1.pdf)] [[printable](/slides/07_memory_part1_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EfOlYwHJSo5ErRW0r3ZUC-sB692kf1JTBmFbvpZIQ5A-iQ?e=L5kGZG)]<br>
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
 * Linux System Programming - Ch9: Memory Management
