@@ -44,7 +44,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch32: Thread Cancellation
 <br><br>
 
-## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[src](/slides/src_cpu_set.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EYMLbABVJcpKkMGKguSBlYgBpmPFvknYo8YJgU9n5kiViQ?e=FXBOvl)]<br>
+## **PM-III: CPU Scheduling** [[slides](/slides/04_process_part3.pdf)] [[printable](/slides/04_process_part3_printable.pdf)] [[src](/slides/src_cpu_set.zip)]<br>
 ## [[exercise 4](/exercise/04_scheduling.pdf)] [[exercise 4 - src](/exercise/04_scheduling.zip)]
 
 #### **Reading**
@@ -57,7 +57,7 @@ permalink: /schedule/
 <hr>
 <br>
 
-## **PS-I: Synchronization Tools** [[slides](/slides/05_sync_part1.pdf)] [[printable](/slides/05_sync_part1_printable.pdf)] [[src](/slides/src_semaphore.zip)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/Eei7yxkX1F9Jukr3cBuDW8YBW17xWUG9A4ztiC577GXwwg?e=8lkjD5)]<br>
+## **PS-I: Synchronization Tools** [[slides](/slides/05_sync_part1.pdf)] [[printable](/slides/05_sync_part1_printable.pdf)] [[src](/slides/src_semaphore.zip)]<br>
 ## [[exercise 5](/exercise/05_sync.pdf)] [[exercise 5 - src](/exercise/05_sync.zip)]
 
 #### **Reading**
@@ -68,7 +68,7 @@ permalink: /schedule/
 * The Linux Programming Interface - Ch53: POSIX Semaphores
 <br>
 
-## **PS-II: Deadlocks** [[slides](/slides/06_sync_part2.pdf)] [[printable](/slides/06_sync_part2_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EU66No6RClNAvOsyGcfFiLYBs2KTDuXxV0Bh5BUY5-J-Vg?e=OXIZ7f)]<br>
+## **PS-II: Deadlocks** [[slides](/slides/06_sync_part2.pdf)] [[printable](/slides/06_sync_part2_printable.pdf)]<br>
 #### **Reading**
 * Operating System Concepts - Ch8: Deadlocks
 <br><br><br><br>
@@ -76,7 +76,7 @@ permalink: /schedule/
 <center><h1><b>Module 3 - Memory Management (MM)</b></h1></center>
 <hr>
 <br>
-# **MM-I: Main Memory (Part 1)** [[slides](/slides/07_memory_part1.pdf)] [[printable](/slides/07_memory_part1_printable.pdf)] [[video](https://kth-my.sharepoint.com/:v:/g/personal/payberah_ug_kth_se/EfOlYwHJSo5ErRW0r3ZUC-sB692kf1JTBmFbvpZIQ5A-iQ?e=L5kGZG)]<br>
+# **MM-I: Main Memory (Part 1)** [[slides](/slides/07_memory_part1.pdf)] [[printable](/slides/07_memory_part1_printable.pdf)]<br>
 ## [[exercise 6](/exercise/06_swapping.pdf)] [[exercise 6 - src](/exercise/06_swapping.zip)] [[exercise 7](/exercise/07_segmentation.pdf)] [[exercise 2 - src](/exercise/07_segmentation.zip)] 
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
