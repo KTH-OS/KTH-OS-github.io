@@ -84,7 +84,7 @@ permalink: /module/
 * The Linux Programming Interface - Ch7: Memory Allocation
 <br><br>
 
-# **Main Memory (Part 2)** [slides] [exercise]
+# **Main Memory (Part 2)** [[slides](/slides/08_memory_part2.pdf)] [[printable](/slides/08_memory_part2_printable.pdf)]<br>
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
 * Linux System Programming - Ch9: Memory Management
