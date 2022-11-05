@@ -91,7 +91,7 @@ permalink: /module/
 * The Linux Programming Interface - Ch7: Memory Allocation
 <br><br>
 
-# **Virtual Memory** [slides] [exercise]
+# **Virtual Memory** [[slides](/slides/09_virtual_memory.pdf)] [[printable](/slides/09_virtual_memory_printable.pdf)]<br>
 #### **Reading**
 * Operating System Concepts - Ch10: Virtual Memory
 <br><br><br><br>
