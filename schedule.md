@@ -99,7 +99,7 @@ permalink: /module/
 <center><h1><b>Module 4 - Storage Management and File Systems</b></h1></center>
 <hr>
 <br>
-# **Mass-Storage Structure** [slides] [exercise]
+# **Mass-Storage Structure** [[slides](/slides/10_storage.pdf)] [[printable](/slides/10_storage_printable.pdf)]<br>
 #### **Reading**
 * Operating System Concepts - Ch11: Mass-Storage Structure
 <br><br>
