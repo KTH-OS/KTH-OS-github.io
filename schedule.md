@@ -77,7 +77,7 @@ permalink: /module/
 <hr>
 <br>
 # **Main Memory (Part 1)** [[slides](/slides/07_memory_part1.pdf)] [[printable](/slides/07_memory_part1_printable.pdf)]<br>
-## [[exercise 6](/exercise/06_swapping.pdf)] [[exercise 6 - src](/exercise/06_swapping.zip)] [[exercise 7](/exercise/07_segmentation.pdf)] [[exercise 2 - src](/exercise/07_segmentation.zip)] 
+## [[exercise 6](/exercise/06_swapping.pdf)] [[exercise 6 - src](/exercise/06_swapping.zip)] [[exercise 7](/exercise/07_segmentation.pdf)] [[exercise 7 - src](/exercise/07_segmentation.zip)] 
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
 * Linux System Programming - Ch9: Memory Management
@@ -85,6 +85,7 @@ permalink: /module/
 <br><br>
 
 # **Main Memory (Part 2)** [[slides](/slides/08_memory_part2.pdf)] [[printable](/slides/08_memory_part2_printable.pdf)]<br>
+## [[exercise 8](/exercise/08_paging.pdf)] [[exercise 8 - src](/exercise/08_paging.zip)] [[exercise 9](/exercise/09_mylloc.pdf)] [[exercise 9 - src](/exercise/09_mylloc.zip)] 
 #### **Reading**
 * Operating System Concepts - Ch9: Memory Management
 * Linux System Programming - Ch9: Memory Management
@@ -92,6 +93,7 @@ permalink: /module/
 <br><br>
 
 # **Virtual Memory** [[slides](/slides/09_virtual_memory.pdf)] [[printable](/slides/09_virtual_memory_printable.pdf)]<br>
+## [[exercise 10](/exercise/10_tlb.pdf)] [[exercise 10 - src](/exercise/10_tlb.zip)]
 #### **Reading**
 * Operating System Concepts - Ch10: Virtual Memory
 <br><br><br><br>
@@ -100,11 +102,13 @@ permalink: /module/
 <hr>
 <br>
 # **Mass-Storage Structure** [[slides](/slides/10_storage.pdf)] [[printable](/slides/10_storage_printable.pdf)]<br>
+## [[exercise 11](/exercise/11_storage.pdf)] [[exercise 11 - src](/exercise/11_storage.zip)]
 #### **Reading**
 * Operating System Concepts - Ch11: Mass-Storage Structure
 <br><br>
 
 # **File-System Interface** [slides] [exercise]
+## [[exercise 12](/exercise/12_files.pdf)] [[exercise 12 - src](/exercise/12_files.zip)]
 #### **Reading**
 * Operating System Concepts - Ch13: File-System Interface
 * Linux System Programming - Ch2: File I/O
