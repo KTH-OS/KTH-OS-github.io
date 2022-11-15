@@ -93,7 +93,6 @@ permalink: /module/
 <br><br>
 
 # **Virtual Memory** [[slides](/slides/09_virtual_memory.pdf)] [[printable](/slides/09_virtual_memory_printable.pdf)]<br>
-## [[exercise 10](/exercise/10_tlb.pdf)] [[exercise 10 - src](/exercise/10_tlb.zip)]
 #### **Reading**
 * Operating System Concepts - Ch10: Virtual Memory
 <br><br><br><br>
@@ -102,13 +101,13 @@ permalink: /module/
 <hr>
 <br>
 # **Mass-Storage Structure** [[slides](/slides/10_storage.pdf)] [[printable](/slides/10_storage_printable.pdf)]<br>
-## [[exercise 11](/exercise/11_storage.pdf)] [[exercise 11 - src](/exercise/11_storage.zip)]
+## [[exercise 10](/exercise/10_storage.pdf)] [[exercise 10 - src](/exercise/10_storage.zip)]
 #### **Reading**
 * Operating System Concepts - Ch11: Mass-Storage Structure
 <br><br>
 
 # **File-System Interface** [slides] [exercise]
-## [[exercise 12](/exercise/12_files.pdf)] [[exercise 12 - src](/exercise/12_files.zip)]
+## [[exercise 11](/exercise/11_files.pdf)] [[exercise 11 - src](/exercise/11_files.zip)]
 #### **Reading**
 * Operating System Concepts - Ch13: File-System Interface
 * Linux System Programming - Ch2: File I/O
