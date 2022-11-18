@@ -106,7 +106,7 @@ permalink: /module/
 * Operating System Concepts - Ch11: Mass-Storage Structure
 <br><br>
 
-# **File-System Interface** [slides] [exercise]
+# **File-System Interface** [[slides](/slides/11_fs_part1.pdf)] [[printable](/slides/11_fs_part1_printable.pdf)]<br>
 ## [[exercise 11](/exercise/11_files.pdf)] [[exercise 11 - src](/exercise/11_files.zip)]
 #### **Reading**
 * Operating System Concepts - Ch13: File-System Interface
