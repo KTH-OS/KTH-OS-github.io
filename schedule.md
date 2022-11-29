@@ -115,7 +115,7 @@ permalink: /module/
 * The Linux Programming Interface - Ch4: File I/O, The Universal I/O Model
 <br><br>
 
-# **File-System Implementation** [slides] [exercise]
+# **File-System Implementation** [[slides](/slides/12_fs_part2.pdf)] [[printable](/slides/12_fs_part2_printable.pdf)]
 #### **Reading**
 * Operating System Concepts - Ch14: File-System Implementation
 * Operating System Concepts - Ch15: File-System Internals
