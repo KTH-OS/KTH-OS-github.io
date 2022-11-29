@@ -127,7 +127,7 @@ permalink: /module/
 <center><h1><b>Module 5 - I/O Managment</b></h1></center>
 <hr>
 <br>
-# **I/O Systems** [slides] [exercise]
+# **I/O Systems** [[slides](/slides/13_io-systems.pdf)] [[printable](/slides/13_io-systems_printable.pdf)]
 #### **Reading**
 * Operating System Concepts - Ch12: I/O Systems
 <br><br><br><br>
